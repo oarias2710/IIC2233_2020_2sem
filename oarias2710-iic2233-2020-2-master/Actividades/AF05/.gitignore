@@ -1,0 +1,13 @@
+cliente/assets/
+cliente/chat_widget.py
+cliente/interfaz.py
+cliente/main.py
+cliente/popups.py
+cliente/sala_de_espera.py
+cliente/ventana_inicio.py
+cliente/ventana_principal.py
+servidor/jugadores.py
+servidor/logica.py
+servidor/main.py
+servidor/nombres.txt
+Enunciado.pdf

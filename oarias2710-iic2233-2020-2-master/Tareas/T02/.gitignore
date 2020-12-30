@@ -1,0 +1,16 @@
+songs/
+sprites/
+img/
+.markdownlintignore
+borrador.py
+borrador02.py
+borrador03.py
+borrador04.py
+Qtdesigner/
+borrador02.py
+otra_ventana.ui
+ventana_inicio.py
+puntajes3.txt
+ejemplos/
+Enunciado.pdf
+COSAS QUE VAN EN EL README.docx
